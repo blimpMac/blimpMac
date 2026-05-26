@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Languages-C%23%20%7C%20Python%20%7C%20SQL-blue?style=for-the-badge" alt="Languages">
-  <img src="https://img.shields.io/badge/Typing%20Speed-115WPM-success?style=for-the-badge" alt="Typing Speed">
+  <img src="https://img.shields.io/badge/Typing%20Speed-60WPM-success?style=for-the-badge" alt="Typing Speed">
 </p>
 
 ---
