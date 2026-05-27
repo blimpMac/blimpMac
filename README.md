@@ -70,7 +70,7 @@ Whether verifying data workflows or performing rigorous integration testing, my 
 - Simulated real-time response timelines
 
 ### 🔗 Repository
-[React-MessengerStyle](https://github.com)
+[React-MessengerStyle](https://github.com/blimpMac/React-MessengerStyle)
 
 ---
 
@@ -86,7 +86,7 @@ Whether verifying data workflows or performing rigorous integration testing, my 
 - Ledger accuracy QA testing
 
 ### 🔗 Repository
-[Capstone-Project-BlockChain-BlockGo](https://github.com)
+[Capstone-Project-BlockChain-BlockGo](https://github.com/blimpMac/Capstone-Project-BlockChain-BlockGo)
 
 ---
 
@@ -101,7 +101,7 @@ Whether verifying data workflows or performing rigorous integration testing, my 
 - Improved form submission reliability
 
 ### 🔗 Repository
-[FinalProjectForASPNET](https://github.com)
+[FinalProjectForASPNET](https://github.com/blimpMac/FinalProjectForASPNET)
 
 ---
 
@@ -116,7 +116,7 @@ Whether verifying data workflows or performing rigorous integration testing, my 
 - Real-time check-in validation
 
 ### 🔗 Repository
-[PythonFinals](https://github.com)
+[PythonFinals](https://github.com/blimpMac/PythonFinals)
 
 ---
 
